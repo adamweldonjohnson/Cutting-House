@@ -1,0 +1,23 @@
+{
+  "name": "cutting-house",
+  "version": "1.0.0",
+  "description": "Cutting House Restaurant",
+  "main": "index.js",
+  "dependencies": {
+    "bulma-start": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamweldonjohnson/Cutting-House.git"
+  },
+  "author": "Adam Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamweldonjohnson/Cutting-House/issues"
+  },
+  "homepage": "https://github.com/adamweldonjohnson/Cutting-House#readme"
+}
